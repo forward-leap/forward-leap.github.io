@@ -6,6 +6,7 @@ img: overridelogic.png
 alt: OverrideLogic
 project-date: 2011
 status: Active
+link: https://overridelogic.com
 category: Distributed systems
 description: Software consulting company specialized in distributed systems and data-centric workflows, usually geared towards AI and machine learning.
 ---
