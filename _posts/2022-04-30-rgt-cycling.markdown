@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2022-04-30
+img: rgt.png
+alt: RGT Cycling
+project-date: 2017
+status: Exited 2022, acquired by Wahoo Fitness
+category: Virtual fitness platform
+description: A virtual cycling platform, re-creating the most famous roads in the world.
+---

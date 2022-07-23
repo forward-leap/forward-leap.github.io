@@ -200,6 +200,10 @@ section.success {
     margin: 0 0 15px;
 }
 
+#portfolio .portfolio-item img {
+    height: 255px !important; /* TODO: 4 column */
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
@@ -267,8 +271,12 @@ section.success {
   }
   @media (min-width: 960px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
+      /* TODO: 3 column
       flex: 1 0 32%;
       max-width: 32%;
+      */
+      flex: 1 0 24%;
+      max-width: 24%;
     }
   }
   /* A large grid might need four columns on widescreen layouts */
