@@ -54,7 +54,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Greenfield Park
+  - line: Sherbrooke / Montreal
   - line: Quebec, Canada
 
 # Credits content
@@ -73,5 +73,5 @@ defaults:
       permalink: ""
 
 about:
-  left: An investment firm focused on scaling start-ups and small businesses to achieve sustainable growth.
+  left: A small investment firm focused on scaling start-ups and small businesses to achieve sustainable growth.
   right: We have nearly two decades of experience in various companies, from start, to growth, to acquisition.
